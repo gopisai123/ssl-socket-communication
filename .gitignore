@@ -1,0 +1,8 @@
+# SSL private key — never commit this
+certs/server.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
